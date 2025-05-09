@@ -224,7 +224,7 @@ Các chỉ tiêu:
    - Gần đây nhất (số tháng kể từ lần đặt hàng cuối cùng)
    - Giá trị đơn hàng trung bình
    - Chi tiêu trung bình hàng tháng
-
+*/
 ----------------------------------------------------------
 
 CREATE VIEW gold.report_view AS
